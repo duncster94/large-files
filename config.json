@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "DepMap-GI",
+      "tensorShape": [
+        16620,
+        512
+      ],
+      "tensorPath": "https://media.githubusercontent.com/media/duncster94/large-files/master/depmap-gi-lr0001_features.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/duncster94/large-files/master/depmap-gi-lr0001_metadata.tsv"
+    }
+  ]
+}
